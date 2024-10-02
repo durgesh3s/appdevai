@@ -40,9 +40,9 @@ const Footer = () => {
   <nav>
     <h6 className="footer-title">Support</h6> 
     <a href="mailto:appdevai1@gmail.com" className="link link-hover">appdevai1@gmail.com</a>
-<a href="mailto:durgesh.sde@gmail.com" className="link link-hover">durgesh.sde@gmail.com</a>
-<a href="tel:+916393313101" className="link link-hover">Phone: +91-6393313101</a>
-<a href="tel:+916393313101" className="link link-hover">Telegram: +91-6393313101</a>
+<a href="mailto:durgesh.sde@gmail.com" className="link link-hover">p.ankita10101@gmail.com</a>
+<a href="tel:+916393313101" className="link link-hover">Phone: +91-9569378421</a>
+<a href="tel:+916393313101" className="link link-hover">Telegram: +91-9569378421</a>
   </nav> 
   <form onSubmit={handleSubscribe}>
     <h6 className="footer-title">Newsletter</h6> 
